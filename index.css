@@ -321,7 +321,7 @@ header{
 }
  .footer_logo span{
     display: flex;
-    font-sieze: 1.8rem;
+    font-size: 1.8rem;
     font-weight: 800;
 } 
 
@@ -345,7 +345,7 @@ header{
 }
 
 .footer_socials a:hover{
-    backrground-color: orangered;
+    background-color: orangered;
 }  
 
 .footer_col h4{
